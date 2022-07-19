@@ -1,0 +1,29 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austindavis95/jest-another-RPG.git"
+  },
+  "keywords": [
+    "jest",
+    "RPG"
+  ],
+  "author": "Austin Davis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austindavis95/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/austindavis95/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
